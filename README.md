@@ -59,4 +59,4 @@ I Want To Software Developer in `Python`
   - Lazeyness
 
 ###  **Achievements**
--I got many certificates from Coursera
+- I got many certificates from Coursera
