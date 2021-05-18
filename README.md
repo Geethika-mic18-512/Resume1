@@ -57,3 +57,6 @@ I Want To Software Developer in `Python`
   - Logical thinking
 - Weaknesses:
   - Lazeyness
+
+###  **Achievements**
+-I got many certificates from Coursera
